@@ -1,10 +1,10 @@
-# Hockey Club Project
+# Sports Club Project
 
-The **Hockey Club Project** is a planning and management document designed to support the development of a hockey team management app. It includes key project components such as task lists, feature planning, scheduling, and design ideas — all stored in an Excel workbook.
+The **Sports Club Project** is a planning and management document designed to support the development of a Sports team management app. It includes key project components such as task lists, feature planning, scheduling, and design ideas — all stored in an Excel workbook.
 
 ## 📁 Project Contents
 
-- **Teamo Project (3).xlsx**  
+- **Sports CLub Project**  
   This Excel file contains the complete project plan. It includes:
   - 📝 Task breakdown and responsibilities
   - 📅 Timeline/schedule
@@ -14,7 +14,7 @@ The **Hockey Club Project** is a planning and management document designed to su
 
 ## 📌 Purpose
 
-This project supports the development of a centralized app to manage hockey teams more effectively. It helps organize:
+This project supports the development of a centralized app to manage sports teams more effectively. It helps organize:
 - Team communication
 - Fixture and event planning
 - Attendance tracking
