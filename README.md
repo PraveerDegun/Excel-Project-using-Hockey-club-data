@@ -1,6 +1,6 @@
-# Teamo Project
+# Hockey Club Project
 
-The **Teamo Project** is a planning and management document designed to support the development of a hockey management app. It includes key project components such as task lists, feature planning, scheduling, and design ideas — all stored in an Excel workbook.
+The **Hockey Club Project** is a planning and management document designed to support the development of a hockey team management app. It includes key project components such as task lists, feature planning, scheduling, and design ideas — all stored in an Excel workbook.
 
 ## 📁 Project Contents
 
@@ -34,5 +34,5 @@ This project supports the development of a centralized app to manage hockey team
 
 ---
 
-📌 *This repository serves as the foundation for developing the Teamo hockey app. Future commits will include source code, UI mockups, and data structure planning.*
+📌 *This repository serves as the foundation for developing the Hockey Club management app. Future commits will include source code, UI mockups, and data structure planning.*
 
