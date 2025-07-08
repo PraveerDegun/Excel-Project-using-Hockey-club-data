@@ -1,15 +1,38 @@
 # Teamo Project
 
-This project contains documentation and planning data for the **Teamo hockey management app**, stored in an Excel file.
+The **Teamo Project** is a planning and management document designed to support the development of a hockey management app. It includes key project components such as task lists, feature planning, scheduling, and design ideas — all stored in an Excel workbook.
 
-## File Overview
+## 📁 Project Contents
 
-- `Teamo Project (3).xlsx` — Contains planning data including task lists, schedules, and potential design ideas for the Teamo project.
+- **Teamo Project (3).xlsx**  
+  This Excel file contains the complete project plan. It includes:
+  - 📝 Task breakdown and responsibilities
+  - 📅 Timeline/schedule
+  - 🎯 Key milestones and deliverables
+  - 💡 Feature ideas and planning
+  - 📊 Resource tracking (e.g. team members, roles, priorities)
 
-## How to Use
+## 📌 Purpose
 
-Open the Excel file to review the project roadmap, feature sets, and timeline for development.
+This project supports the development of a centralized app to manage hockey teams more effectively. It helps organize:
+- Team communication
+- Fixture and event planning
+- Attendance tracking
+- Performance monitoring
+
+## 🧠 How to Use
+
+1. Open the Excel file in Microsoft Excel or Google Sheets.
+2. Explore the tabs to understand the full scope of the project.
+3. Update the planning and tracking sections as the project progresses.
+
+## ✅ Future Improvements
+
+- Convert key parts of the Excel workbook (tasks, timeline, resources) into Markdown or CSV for easier version control.
+- Add GitHub Projects or Issues for task tracking.
+- Begin frontend/backend implementation based on the outlined plan.
 
 ---
 
-⚠️ Make sure to rename or version-control future updates (e.g., `Teamo_Project_v2.xlsx`) to keep the repository organized.
+📌 *This repository serves as the foundation for developing the Teamo hockey app. Future commits will include source code, UI mockups, and data structure planning.*
+
